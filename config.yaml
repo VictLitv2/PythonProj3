@@ -1,0 +1,7 @@
+user_host: Host
+user_port: Port
+ip_address: Ip address
+ip_status: Ip Status
+port_status: Port status
+service_name: Service name
+detected_os: Detected operating system
